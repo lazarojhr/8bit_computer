@@ -1,0 +1,13 @@
+movl 000 11111111
+notw 001
+movl 000 11111110
+notw 010
+movl 000 11111100
+notw 011
+movl 000 11111000
+notw 100
+movl 000 11110000
+notw 101
+movl 000 11100000
+notw 111
+halt

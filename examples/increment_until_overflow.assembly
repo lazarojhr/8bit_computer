@@ -1,0 +1,10 @@
+# Increment the accumulator until it overflows
+# Send the accumulator to the output
+#
+clrw 000
+movl 000 11101111
+addl 000 00000001
+movf 111
+skipz
+goto 00000010
+halt

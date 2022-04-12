@@ -1,0 +1,9 @@
+movl 000 00010001
+shftl 000
+shftl 001
+shftl 010
+shftl 011
+shftl 100
+shftl 101
+shftl 111
+halt

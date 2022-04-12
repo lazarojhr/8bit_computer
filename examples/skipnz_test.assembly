@@ -1,0 +1,10 @@
+clrw 000
+#
+skipnz
+movl 000 01010100
+#
+skipnz
+movl 001 11110000
+movl 010 11110000
+#
+halt

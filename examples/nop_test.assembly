@@ -1,0 +1,9 @@
+movl 000 01010101
+nop
+nop
+nop
+nop
+movl 000 11111111
+nop
+nop
+halt

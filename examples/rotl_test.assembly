@@ -1,0 +1,9 @@
+movl 000 00010001
+rotl 000
+rotl 001
+rotl 010
+rotl 011
+rotl 100
+rotl 101
+rotl 111
+halt

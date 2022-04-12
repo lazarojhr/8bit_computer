@@ -1,0 +1,15 @@
+movl 001 00000001
+movl 010 00000011
+movl 011 00100111
+movl 100 01001111
+movl 101 10011111
+movl 000 00000001
+#
+xorw 000
+xorw 001
+xorw 010
+xorw 011
+xorw 100
+xorw 101
+#
+halt

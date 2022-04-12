@@ -1,0 +1,15 @@
+movl 001 00011111
+movl 010 00001111
+movl 011 00000111
+movl 100 00000011
+movl 101 00000001
+movl 000 11111111
+#
+andw 000
+andw 001
+andw 010
+andw 011
+andw 100
+andw 101
+#
+halt

@@ -1,0 +1,15 @@
+movl 001 00000001
+movl 010 00000011
+movl 011 00000111
+movl 100 00001111
+movl 101 00011111
+#
+mova 001
+mova 010
+mova 011
+mova 100
+mova 101
+mova 110
+mova 000
+#
+halt
